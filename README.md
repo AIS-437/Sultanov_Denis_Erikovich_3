@@ -85,7 +85,7 @@ Docker облегчает работу над проектами в команд
 
 Таблица 2 представляет сводное сравнение по преимуществам и недостаткам Docker в разных аспектах.
 
-Таблица. Преимущества и ограничения Docker
+Таблица 2. Преимущества и ограничения Docker
 
 | **Критерий** | **Преимущества Docker** | **Ограничения Docker** |
 | --- | --- | --- |
@@ -105,7 +105,7 @@ Docker стал одним из ключевых инструментов сов
 ## Список литературы
 
 - Документация Docker \[Электронный ресурс\] // Docker Inc. URL: <https://docs.docker.com/> (дата обращения: 15.11.2025).
-- Обзор контейнеризации Red Hat \[Электронный ресурс\] // Red Hat, Inc. URL: <https://www.redhat.com/en/topics/containers> (дата обращения: 15.11.2025)..
-- Kubernetes Документация \[Электронный ресурс\] // Cloud Native Computing Foundation. URL: <https://kubernetes.io/docs/>.
+- Обзор контейнеризации Red Hat \[Электронный ресурс\] // Red Hat, Inc. URL: <https://www.redhat.com/en/topics/containers> (дата обращения: 15.11.2025).
+- Kubernetes Документация \[Электронный ресурс\] // Cloud Native Computing Foundation. URL: <https://kubernetes.io/docs/> (дата обращения: 15.11.2025).
 - Докер против Виртуальных Машин \[Электронный ресурс\] // Upwind Inc. URL: <https://www.upwind.io/glossary/docker-vs-virtual-machines> (дата обращения: 14.11.2025).
 - Налбандян А. Docker. Полное руководство \[Электронный ресурс\] // Издательство «Питер». URL: <https://www.piter.com/product/docker-polnoe-rukovodstvo> (дата обращения: 15.11.2025).
